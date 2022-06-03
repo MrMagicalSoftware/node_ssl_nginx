@@ -88,8 +88,8 @@ sudo service nginx restart
 
 ### You should now be able to visit your IP with no port (port 80) and see your app. Now let's add a domain
 
-## 8. Add domain in Digital Ocean
-In Digital Ocean, go to networking and add a domain
+## 8. Add domain in Register Provider
+In Provider Register, go to networking and add a domain
 
 Add an A record for @ and for www to your droplet
 
